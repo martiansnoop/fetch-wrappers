@@ -14,5 +14,10 @@
   "dependencies": {
     "loglevel": "^1.4.1",
     "node-fetch": "^1.5.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "http": "0.0.0",
+    "httpdispatcher": "^1.0.0"
   }
 }
